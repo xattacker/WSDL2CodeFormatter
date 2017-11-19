@@ -1,9 +1,9 @@
-# project WSDL2CodeAndroidFormatter:
+ï»¿# project WSDL2CodeAndroidFormatter:
 <br>
-­×¥¿ WSDL2Code ºô¯¸(http://www.wsdl2code.com/pages/home.aspx)
-²£¥Íªº android code ¤¤,<br>
-¦³¨ÇÃş§O·|²£¥Í¦³¨Ç¨ç¦¡¥X²{ @Override ªº annotation ¿ù»~
+ä¿®æ­£ WSDL2Code ç¶²ç«™(http://www.wsdl2code.com/pages/home.aspx)
+ç”¢ç”Ÿçš„ android code ä¸­,<br>
+æœ‰äº›é¡åˆ¥æœƒç”¢ç”Ÿæœ‰äº›å‡½å¼å‡ºç¾ @Override çš„ annotation éŒ¯èª¤
 <br><br>
-¥Îªk:<br>
-±N°õ¦æÀÉ ©ñ¦bµ{¦¡½X©Ò¦b¥Ø¿ı¤U, ¦AÂIÀ»¨â¤U°õ¦æ, 
-´N·|±N¨ä¥Ø¿ı»P©Ò¦³©³¤U¤l¥Ø¿ıªºjavaÀÉ, ¶i¦æ±½ºË»P­×¥¿
+ç”¨æ³•:<br>
+å°‡åŸ·è¡Œæª” æ”¾åœ¨ç¨‹å¼ç¢¼æ‰€åœ¨ç›®éŒ„ä¸‹, å†é»æ“Šå…©ä¸‹åŸ·è¡Œ, 
+å°±æœƒå°‡å…¶ç›®éŒ„èˆ‡æ‰€æœ‰åº•ä¸‹å­ç›®éŒ„çš„javaæª”, é€²è¡Œæƒç„èˆ‡ä¿®æ­£
