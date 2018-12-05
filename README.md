@@ -2,7 +2,6 @@
 
 修正 WSDL2Code 網站(http://www.wsdl2code.com/pages/home.aspx)
 產生的 android code 中,
-
 有些類別會產生有些函式出現 @Override 的 annotation 錯誤
 
 
