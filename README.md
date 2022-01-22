@@ -1,6 +1,6 @@
 ﻿# project WSDL2CodeAndroidFormatter:
  
-<font color=#FF0000>**(2022-01-22: 此網站服務已經不存在)**</font><br>
+<span style="color:red">**(2022-01-22: 此網站服務已經不存在)**</span><br>
 修正 WSDL2Code 網站(http://www.wsdl2code.com/pages/home.aspx)
 產生的 android code 中,有些類別會產生有些函式出現 @Override 的 annotation 錯誤
 
